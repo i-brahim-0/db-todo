@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "id": "74fc",
+      "task": "الحمد لله الذي بنعمته تتم الصالحات",
+      "completed": false
+    },
+    {
+      "id": "98f1",
+      "task": "json-server --watch db.json"
+    }
+  ]
+}
